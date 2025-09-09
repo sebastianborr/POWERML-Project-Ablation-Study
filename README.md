@@ -15,6 +15,6 @@ DL architectures studied:
               - CNN+LSTM            - BiLSTM
               - Transformers
               
-The results for a first ablation study are included both in PDF format in the ./PDFOutput directory and in .csv forma0 in ./csvOutput.
+The results for a first ablation study are included both in PDF format and for Latex, in the ./PDFOutput directory and in .csv forma0 in ./csvOutput.
 
 In addition, the results of different executions of some of the models selected as the best and their comparison with the real results are included.
